@@ -1,26 +1,26 @@
 {
   "name": "js-starter",
-    "version": "0.0.0",
-    "description": "Micro JS project starter, kinda like part of my dotfiles",
-    "main": "src/index.js",
-    "scripts": {
-      "test": "mocha --compilers js:babel/register",
-      "test-watch": "mocha --watch --compilers js:babel/register",
-      "lint": "eslint src**; exit 0"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/stuartsan/js-starter"
-    },
-    "author": "Stuart Sandine",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stuartsan/js-starter/issues"
-    },
-    "homepage": "https://github.com/stuartsan/js-starter",
-    "devDependencies": {
-      "babel": "^5.8.23",
-      "eslint": "^1.4.1",
-      "mocha": "^2.3.2"
-    }
+  "version": "0.0.0",
+  "description": "Micro JS project starter, kinda like part of my dotfiles",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register",
+    "test-watch": "mocha --watch --compilers js:babel/register",
+    "lint": "eslint src**; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuartsan/js-starter"
+  },
+  "author": "Stuart Sandine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartsan/js-starter/issues"
+  },
+  "homepage": "https://github.com/stuartsan/js-starter",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "eslint": "^1.4.1",
+    "mocha": "^2.3.2"
+  }
 }
