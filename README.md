@@ -2,8 +2,7 @@
 
 Micro JS project starter, kinda like part of my [dotfiles](https://github.com/stuartsan/dotfiles)...start writing JS with unit tests, linting, and ES6 in like 20 seconds. A more persistent scratchpad than a REPL.
 
-Uses [mocha](https://github.com/mochajs/mocha), [eslint](https://github.com/eslint/eslint), 
-and [babel](https://github.com/babel/babel).
+Uses [mocha](https://github.com/mochajs/mocha) and [eslint](https://github.com/eslint/eslint).
 
 ## Do it live
 
@@ -21,5 +20,5 @@ Then grab stuff:
 And do stuff: 
 
 `npm test` OR  
-`npm run test-watch` OR  
+`npm run test:watch` OR  
 `npm run lint`
